@@ -5,7 +5,7 @@
 <%@ taglib uri="/functions" prefix="f" %>
 <html>
 <head><title>Localized Dates</title></head>
-<body bgcolor="green">
+<body bgcolor="white">
 <jsp:useBean id="locales" scope="application"
     class="mypkg.MyLocales"/>
 
